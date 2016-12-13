@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c-mean", "c-mean\c-mean.csproj", "{2AC0BCB6-7DAB-4D00-BC40-2899EA29A9F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c-mean-interface", "c-mean-interface\c-mean-interface.csproj", "{B7C099ED-3CC2-427A-8737-E167023DF8BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AC0BCB6-7DAB-4D00-BC40-2899EA29A9F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AC0BCB6-7DAB-4D00-BC40-2899EA29A9F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AC0BCB6-7DAB-4D00-BC40-2899EA29A9F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AC0BCB6-7DAB-4D00-BC40-2899EA29A9F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7C099ED-3CC2-427A-8737-E167023DF8BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7C099ED-3CC2-427A-8737-E167023DF8BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7C099ED-3CC2-427A-8737-E167023DF8BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7C099ED-3CC2-427A-8737-E167023DF8BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
